@@ -7,6 +7,4 @@ install:
 
 deploy:
   provider: script
-  script: echo 'Hello world'
-  on:
-    branch: master
+  script: deploy.sh
