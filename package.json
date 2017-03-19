@@ -1,0 +1,16 @@
+{
+  "name": "shoehorn",
+  "version": "0.0.1",
+  "description": "A website for the commercial danish organ donor association ShoeHorn",
+  "author": "ToxicDonkeyButts",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^1.2.3",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
