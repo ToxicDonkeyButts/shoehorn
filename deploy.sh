@@ -1,5 +1,6 @@
 #!/bin/bash
 eval $(ssh-agent -s)
+mkdir -p .ssh/
 echo "StrictHostKeyChecking no" >> .ssh/config
 echo "$SSH_PRIVATE_KEY" | base64 --decode > key
 chmod 600 key
