@@ -49,7 +49,7 @@ export default () =>
   <div className="container">
     <div className="flex">
       <div className="flex-text">
-        <h2>Hjælp dig selv og andre</h2>
+        <h2>Hjælp dig selv og andre.</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel turpis vel eros vestibulum congue posuere quis orci. Curabitur elementum luctus eleifend. Integer congue et mauris at condimentum. Proin egestas nisl ac ipsum pharetra, eget laoreet augue congue. Cras varius mauris erat, a aliquam nunc condimentum et. Vivamus condimentum, felis vel pulvinar hendrerit, nisl dui blandit dui, vel malesuada velit sapien sed felis. Praesent porta vestibulum sapien, a feugiat leo. Sed ac tristique tellus. Fusce tempor nec arcu ac finibus. Etiam in congue leo. Quisque rutrum mi ut augue tincidunt, id sollicitudin ipsum hendrerit.</p>
       </div>
       <img src="https://unsplash.it/500/300/?random" />
